@@ -1,11 +1,7 @@
 - 👋 Hi, I’m @noenoughdata
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-Instagram - @no_enough_data
-Discord - data#0166
+- 👀 I’m interested in Cyber Security And Programming
+- 🌱 I’m currently learning Catch The Flag And Advanced Programming
+- 💞️ I’m looking to collaborate on Python Programs
 
 <!---
 noenoughdata/noenoughdata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
